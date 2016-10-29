@@ -142,3 +142,4 @@ endif()
 
 add_sdks()
 
+add_subdirectory(zeph)
